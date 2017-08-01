@@ -1,7 +1,8 @@
 # Python
-Data Science applications using Python and some Python Libraries such as Pandas, Scikit-Learn, NumPy, Matplotlib and Pyplot
+Data Science applications using Python and some Python Libraries such as Pandas, Scikit-Learn, NumPy, Matplotlib and Pyplot.
 
-Python Case Studies
+
+Python Case Studies:
 1. DNA Translation
 (Importing DNA Data Into Python and Translating the DNA Sequence)
 
