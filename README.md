@@ -27,5 +27,4 @@ Resources:
 2. Project Gutenberg
 3. LIFEWATCH INBO Project (biodiversity monitoring)
 4. The Diffusion of Microfinance (Research Article published in Science)  
- 
- Authors and affiliations :  Abhijit Banerjee1, Arun G. Chandrasekhar, Esther Duflo1, Matthew O. Jackson
+   Authors and affiliations :  Abhijit Banerjee1, Arun G. Chandrasekhar, Esther Duflo1, Matthew O. Jackson
